@@ -33,5 +33,6 @@ Roles where I can apply **ML to Security**, including:
 - Security Data Scientist / ML Engineer for Threat Detection  
 - Detection Engineering with ML (UEBA, anomaly, fraud, DDoS)  
 - AI Security / ML for Security Analytics
+- I am a Canadian Citizen and can work in USA and need sponsorship for roles in USA
 
 📫 Reach me: `majithiasuvin.1995@gmail.com` 
