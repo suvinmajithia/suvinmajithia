@@ -14,8 +14,8 @@ I work at the intersection of **Cybersecurity and Machine Learning**, building m
 - **Fraud Model Monitoring & Drift Analysis**  
   Production-style fraud model diagnostics using CBPE and drift metrics to detect performance degradation and feature drift, with clear business impact narrative.
 
-- **Financial Chatbot (BCG Simulation)**  
-  Data cleaning + analysis on financial datasets and a rule-based NLP chatbot (NLTK) to answer business queries from structured data.
+- **UEBA Threat Detection Pipeline**  
+  Endpoint behavioral analytics on EVTX-ATTACK-SAMPLES: Sigma T1218 rules (29% recall) + Isolation Forest ML anomaly detection (86% precision), with MITRE mapping, FP/FN validation, and SIEM triage playbook.
 
 - **Customer Churn Optimization (BCG DS Simulation)**  
   Fixed a useless model (5.5% recall) by focusing on class imbalance and threshold tuning, increasing recall to ~38% for at-risk customers.
