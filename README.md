@@ -1,5 +1,6 @@
 # Hi, I'm Suvin 👋
 
+![Profile Views](https://komarev.com/ghpvc/?username=suvinmajithia&style=for-the-badge)
 I work at the intersection of **Cybersecurity and Machine Learning**, building models for threat detection, fraud monitoring, and anomaly detection.
 
 - 💼 Experience: Data Protection @ RBC, Security Analyst, ML projects across fraud, DDoS, and cyber logs
